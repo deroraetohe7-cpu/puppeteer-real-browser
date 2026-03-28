@@ -1,6 +1,8 @@
 > [!WARNING]
 > This repo will no longer receive updates. Thank you to everyone who supported it.
 
+[中文文档](cn.md)
+
 <br/>
 <p align="center">
   <a href="https://github.com/zfcsoftware/puppeteer-real-browser">
